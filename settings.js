@@ -26,21 +26,21 @@ global.owner = ['+94787811464'] //Owner number in aive msg
 global.premium = ['+94787811464'] //Owner Number info
 global.ownernomer = '+94787811464' //Owner Number <<<
 
-global.ownername = '𝐌𝐑.𝐒𝐇𝐄𝐍𝐔' //Owner Name
-global.botname = ' 𝐒𝐇𝐄𝐍𝐔 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓' //Bot Name
+global.ownername = 'MR.SHENU' //Owner Name
+global.botname = ' SHENU WHATSAPP BOT' //Bot Name
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '𝐌𝐑.𝐒𝐇𝐄𝐍𝐔' //Author Name
+global.packname = '☬SHENUWA☬' //Bot Pacage Name
+global.author = 'MR.SHENU' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '𝐒𝐇𝐄𝐍𝐔' //In list menu
+global.footer = 'SHENUWA' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
